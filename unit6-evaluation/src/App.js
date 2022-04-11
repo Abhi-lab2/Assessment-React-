@@ -7,7 +7,7 @@ function App() {
     score: 1,
     wicket: 1,
     over: 2,
-    ball: Math.floor(1),
+    ball: Math.round(0.1),
   });
 
   const handleChange1 = (num, val) => {
