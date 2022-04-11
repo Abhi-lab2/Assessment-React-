@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.scoreCount,
+.wicketCount, 
+.overCount {
+  display: flex;
+  justify-content: center;
+}
+
+.addWicket, .addBall, .addScore {
+  display: flex;
+  justify-content: center;
+}
