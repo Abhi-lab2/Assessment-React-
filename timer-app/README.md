@@ -16,4 +16,4 @@ Builds the app for production to the `build` folder.
 
 
 
-![timer-app_Pic](https://user-images.githubusercontent.com/66909138/163714667-1f212a96-50f1-4409-86f4-ff5194baa5a5.PNG)
+![timer-app_Pic](https://user-images.githubusercontent.com/66909138/163714759-4a631b9b-698c-42d1-948f-7bea81c2c728.PNG)
