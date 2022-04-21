@@ -1,0 +1,8 @@
+
+In this we have to use the styled-components package and using that we have to make.
+
+1. Give the button the props and " background-color: ${(props) => props.background}; " and give $ sign with the object
+    so that the properties can be chnaged.
+
+2. And call the same Buttton as exported in App.jsx and give some more stying that neeeded.
+
