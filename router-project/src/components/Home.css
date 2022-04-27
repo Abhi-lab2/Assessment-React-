@@ -1,0 +1,15 @@
+.product_img {
+  display: flex;
+  margin-top: -10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  justify-content: space-between;
+}
+
+h5 {
+  font-weight: 700;
+}
+
+a {
+  font-weight: 700;
+}

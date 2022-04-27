@@ -1,0 +1,113 @@
+{
+  "cart": [],
+  "appleProducts": [
+    {
+      "name": "13 inch MacBook Pro (M1)",
+      "id": 1,
+      "price": "$1,990",
+      "src": "https://www.studioproper.com/collections/shop-all-products/products/16-inch-apple-macbook-pro"
+    },
+    {
+      "name": "13-inch M1 MacBook Air",
+      "id": 2,
+      "price": "$1,590",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Macbook-Air_0002_438554-Product-0-I-637205827845419382_800x800_57673ff6-0709-45b5-a8bc-7663764cb984_400x.png?v=1618285151"
+    },
+    {
+      "name": "16-inch MacBook Pro",
+      "id": 3,
+      "price": "$1,990",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/macbook-16_0001_mbp16touch-silver-gallery1-201911_jpeg_400x.png?v=1618285124"
+    },
+    {
+      "name": "20W USB-C Power Adapter",
+      "id": 4,
+      "price": "$26.92",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0002.3_400x.png?v=1618285886"
+    },
+    {
+      "name": "AirPods Max",
+      "id": 5,
+      "price": "$50.66",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0007_50074027_754420_400x.png?v=1618286118"
+    },
+    {
+      "name": "ALOGIC Rapid 2 Car Charger",
+      "id": 6,
+      "price": "$49.55",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---7_0000_CRCA57-V3_400x.png?v=1626240392"
+    },
+    {
+      "name": "Apple Airpods (Gen 2)",
+      "id": 7,
+      "price": "$210",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-Web-images-2021-Airpods_400x.png?v=1618284435"
+    },
+    {
+      "name": "Apple AirPods (Gen 3)",
+      "id": 8,
+      "price": "$268",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Airpods-3rd-Gen_0000_MME73_AV2_400x.png?v=1634860722"
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "id": 9,
+      "price": "$352",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3-copy_0004_MWP22_1800x1800_9eeb42ff-b3f6-45e3-8da8-ed84d8ace86c_400x.png?v=1618285046"
+    },
+    {
+      "name": "Apple AirTag",
+      "id": 10,
+      "price": "$45",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/airtag-single_400x.png?v=1622787922"
+    },
+    {
+      "name": "Apple iMac 24' (7 core GPU / 256GB)",
+      "id": 11,
+      "price": "$1855",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_400x.png?v=1618977028"
+    },
+    {
+      "name": "Apple iMac 24' (8 core GPU / 256GB)",
+      "id": 12,
+      "price": "$2100",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_400x.png?v=1618977565"
+    },
+    {
+      "name": "Apple iPad Air (4th Gen)",
+      "id": 13,
+      "price": "$879",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---1_0003_487222-Product-0-I-637360358271400974_800x800_0ba7618e-2538-426f-b63d-d18a3cdcffc6_400x.png?v=1618285737"
+    },
+    {
+      "name": "Apple iPad Pro 12.9' (5th Gen)",
+      "id": 14,
+      "price": "$999",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/appleipadair5thgenblue_400x.png?v=1648611535"
+    },
+    {
+      "name": "Apple iPhone 13 Pro",
+      "id": 15,
+      "price": "$522",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0002s_0001s_0000_13Pro-Graphite_400x.png?v=1631856296"
+    },
+    {
+      "name": "Apple iPhone 12 Pro Max",
+      "id": 16,
+      "price": "$799",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0000s_0001s_0000_13Mini-Midnight_400x.png?v=1631856103"
+    },
+    {
+      "name": "Apple Magic Keyboard",
+      "id": 17,
+      "price": "$138",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/magickeyboardtop_400x.png?v=1641278859"
+    },
+    {
+      "name": "Apple Smart Keyboard Folio - iPad Pro 11' / Air 4th Gen.",
+      "id": 18,
+      "price": "$300",
+      "src": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_MXNK2_AV2_400x.png?v=1618284737"
+    }
+  ]
+}
